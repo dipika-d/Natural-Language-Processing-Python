@@ -1,6 +1,6 @@
 ## Build a Text Corpus from a Wikipedia Data Dump
 
-This directory contains [corpus_build.py](<insert link>) which is a script that extracts and compiles a natural language text corpus from a Wikipedia data dump.
+This directory contains [corpus_build.py](https://github.com/dipika-d/Text-Processing/blob/master/Corpus_Build/corpus_build.py) which is a script that extracts and compiles a natural language text corpus from a Wikipedia data dump.
 
 This script is inspired by the article found [here](https://www.kdnuggets.com/2017/11/building-wikipedia-text-corpus-nlp.html) and the Wikipedia dump files can be found [here](https://dumps.wikimedia.org/enwiki/latest/).
 
