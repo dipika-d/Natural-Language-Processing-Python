@@ -9,6 +9,9 @@ __To run on command line :__
 python3 corpus_build.py wikipedia_dump_file_name.bz2 processed_output_text_file_name.txt
 ```
 The script might take some time to run depending upon how large your chosen dump file is and if it is running as intended 
-you can see ![this](https://github.com/dipika-d/Text-Processing/blob/master/Corpus_Build/corpus_build_progress.png) kind of a progress.
+you can see the progress as below
+
+![this](https://github.com/dipika-d/Text-Processing/blob/master/Corpus_Build/corpus_build_progress.png)
+
 
 This will output a plaintext corpus that can be used for training/testing. 
