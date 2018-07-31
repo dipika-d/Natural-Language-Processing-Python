@@ -1,2 +1,11 @@
-# Text-Processing
-A repo of text processing scripts written by me  
+## Text Processing
+This is a collection of the text processing scripts that I write and utilise from day to day. The following are the scripts found on this directory :
+
+* Term Frequency Word Cloud 
+  * A script to parse any PDF file and output a word cloud of the 50 most frequent terms.
+
+* Bayesian Autocorrect
+  * A simple autocorrect based on Bayes Theorem inspired by Peter Norvig's Spell Checker to autocorrect an incorrectly spelt search term. 
+
+* Corpus Build
+  * A script that extracts text and compiles a corpus from a Wikipedia dump file using gensim. 
