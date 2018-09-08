@@ -9,3 +9,6 @@ This is a collection of the text processing scripts that I write and utilise fro
 
 * Corpus Build
   * A script that extracts text and compiles a corpus from a Wikipedia dump file using gensim. 
+
+* Reddit Sentiment Analysis
+  * This directory contains a web scraper that will scrape the subreddit names from reddit.com/top and TBD
