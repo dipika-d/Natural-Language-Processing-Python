@@ -11,4 +11,4 @@ This is a collection of the text processing scripts that I write and utilise fro
   * A script that extracts text and compiles a corpus from a Wikipedia dump file using gensim. 
 
 * Reddit Sentiment Analysis
-  * This directory contains a web scraper that will scrape the names of the top 100 subreddits and compute the sentiment of each subreddit from the polarity of the top 100 comments in the 'hot' section.
+  * This directory contains a web scraper that will scrape the names of the top 100 subreddits and a sentiment analyzer that will compute the sentiment of each subreddit from the polarity of the top 100 comments in the 'hot' section.
