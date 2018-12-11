@@ -1,4 +1,4 @@
-## Text Processing
+## Natural Language Processing Python
 This is a collection of the text processing scripts that I write and utilise from day to day. The following are the scripts found on this directory :
 
 * Term Frequency Word Cloud 
