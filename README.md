@@ -1,5 +1,5 @@
 ## Natural Language Processing in Python
-This is a collection of the text processing scripts that I write and utilise from day to day. The following are the scripts found on this directory :
+This is a collection of the text processing and NLP implementations :
 
 * Term Frequency Word Cloud 
   * A script to parse any PDF file and output a word cloud of the 50 most frequent terms.
